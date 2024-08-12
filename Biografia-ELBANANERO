@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>SAPEE</title>
+    </head>
+    <body>
+        <h1>EL BANANERO</h1>
+        <h2>Biografia de Adrián Maximiliano Nario</h2>
+        <a href="https://es.wikipedia.org/wiki/El_Bananero"
+        target="_blank"><img src="https://www.futuro.cl/wp-content/uploads/2023/04/El-Bananero-1024x576.webp" 
+        alt="Gran Imagen del BANA con una fan" width="500" height="300"></a>
+        <p>Adrián Maximiliano Nario, más conocido como El Bananero, es un humorista, celebridad de internet y músico estadounidense-uruguayo, conocido por subir vídeos de clase B con humor irreverente y lenguaje obsceno a su sitio web y YouTube. La popularidad de Nario en la red y su amplia cobertura mediática lo han convertido en una de las personalidades en línea y creadores de contenido más destacados tanto de Uruguay como de Hispanoamérica.</p>  
+        <h3>Primeros años (1976 - 2004):</h3>
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKBWjZIZf9gQbtl9-xmPdonZFxWQqidZ8Sjg&s"
+        alt="BANA de joven" width="400" height="300">
+        <br>
+        <p>Adrián Nario nació el 12 de septiembre de 1976 en Nueva Jersey, fruto de un matrimonio de padres uruguayos que se exiliaron a Estados Unidos como consecuencia de la dictadura militar que existía en Uruguay. Sus padres lo dejaban solo en casa mientras trabajaban, por lo que conocía los canales para adultos de la televisión por cable. Al terminar la dictadura en 1985, la familia vendió su negocio y retornaron a Montevideo, donde Nario fue anotado en una escuela pública. A los 8 años estuvo en la Asociación Cristiana de Jóvenes. En el año 1998 a la edad de 22 años trabajaba como ayudante en demoliciones de casas con compañeros Hispanos para un jefe estadounidense en Miami, Estados Unidos. En su adolescencia tocó en varias bandas de rock, entre ellas en Once Tiros. En 2001, mientras grababa su primer álbum en la banda, su familia decidió volver a los Estados Unidos, debido a la crisis económica que afectaba a Uruguay en ese momento, y aprovechando que él era la única persona en su familia con la nacionalidad estadounidense, permitiéndoles entrar al país. En el año 2004 se mudó a Miami (Florida) donde reside actualmente.</p>
+        <h3>Presente (2004 - actualidad):</h3>
+        <img src="https://www.24horas.cl/24horas/site/artic/20230427/imag/foto_0000001020230427133708_ca.jpg"
+        alt="BANA de joven" width="400" height="300">
+        <p>En 2004, Adrián Nario comenzó a hacer videos para divertirse con sus amigos, con un contenido de humor satírico, irreverente, grosero, sexista, escatológico y obsceno, donde se burla de temas tabú como el sexo, además de hacer parodias de películas famosas con montajes propios, captando la atención en Hispanoamérica. Creó su propio sitio web llamado elbananero.com, para subir sus vídeos y compartirlos con sus compañeros de trabajo, quienes se lo contaron a otros amigos, haciéndose así popular al muy poco tiempo con el seudónimo del "Bananero", nombre con el que fue llamado por una exnovia.</p>
+        <p>Un año después de la creación de YouTube, abrió su canal, en el que también subió sus vídeos. Hizo un vídeo básico por semana durante los primeros tres meses, y después de un año su contenido llegó a tener visitas de 15.000 a 20.000 personas por video, convirtiéndose en una celebridad de Internet, o como se llama a sí mismo "celebridad de clase B", siendo popular entre los adolescentes de 15 años en adelante.</p>
+        <p>Entre su contenido se encuentran los «trailerazos», que son tráileres en clave parodia de las películas de Hollywood, con contenido original de las mismas, aunque sustituyendo el audio original y agregando ciertos efectos de edición. Entre los «trailerazos» destacados están El Hombre que Araña (parodia de Spider-Man), Harry el Sucio Potter (parodia de Harry Potter, que obtuvo más de cien millones de visitas en su momento), El impotente Hulk, entre otros. Por la parodia de la serie animada He-Man que realizó, cuyo nombre es Iván el Trolazo, su canal de YouTube fue cerrado por reclamos de derechos de autor por Mattel, sin embargo, abrió otro canal, con el que llegó en 2016 al millón de suscriptores. Entre sus vídeos destacados está La Muñeca System. Debido al contenido gráfico en sus vídeos, donde generalmente se ven los órganos sexuales, sus vídeos han sido eliminados de YouTube, por lo que comenzó a poner carteles de censura (en ocasiones, dicho cartel contenía insultos a la plataforma de vídeos) en esas partes del vídeo para su versión en YouTube, mientras que en su sitio web se puede ver el video sin censura. En enero de 2015, publica una fotografía en Twitter junto a una de las estrellas porno más populares de la época, Mia Khalifa, con quien subió un vídeo para su canal llamado Mia Khalifa vs. la Muñeca Psicótica System.</p>
+        <h3>Trailerazos:</h3>
+        <table border="1">
+            <thead>
+                <tr>
+                   <td >Nombre</td>
+                   <td >Link al video</td>
+                   <td>Fecha de estreno</td>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>El Consolador DaVinci.</td>
+                    <td><a href="https://youtu.be/MbmNiwDW8kU" >Click aqui para ver.</a>
+                    </td>
+                    <td>2007</td>
+                   
+                </tr>
+                <tr>
+                    <td>El Hombre que Araña.</td>
+                    <td><a href="https://www.dailymotion.com/video/x327vmy" >Click aqui para ver.</a></td>
+                    <td>2007</td>
+                </tr>
+                <tr>
+                    <td>Harry El Sucio Potter.</td>
+                    <td><a href="https://youtu.be/y_ptv-_RnXA" >Click aqui para ver.</a></td>
+                    <td>2007</td>
+                </tr>
+                <tr>
+                    <td>John Salchichón Rambo.</td>
+                    <td><a href="https://youtu.be/S1cKK2XAH0I" >Click aqui para ver.</a></td>
+                    <td>2008</td>
+                </tr>
+                <tr>
+                    <td>El Impotente Hulk.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2009</td>
+                </tr>
+                <tr>
+                    <td>Crepúsculo Abierto.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2010</td>
+                </tr>
+                <tr>
+                    <td>La Vida Después Del Trailerazo.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2016</td>
+                </tr>
+                <tr>
+                    <td>Harry El Drogadicto Potter.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2016</td>
+                </tr>
+                <tr>
+                    <td>Superman ama a Batman con el Guasón.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2018</td>
+                </tr>
+                <tr>
+                    <td>Caperusita como Lokita.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2019</td>
+                </tr>
+                <tr>
+                    <td>Los Vergadores VS Thanos el Rompe Anos.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2019</td>
+                </tr>
+                <tr>
+                    <td>El Hombre que Araña El Multivergazo.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2021</td>
+                </tr>
+                <tr>
+                    <td>Harry El Alcohólico Potter.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2021</td>
+                </tr>
+                <tr>
+                    <td>Blanca Nieves.</td>
+                    <td><a href="https://youtu.be/yA_ZeQJjmBg" >Click aqui para ver.</a></td>
+                    <td>2023</td>
+                </tr>
+            </tbody>
+        </table>
+        <h3>Shows Hispanoamericanos:</h3>
+        <p>Además de ganarse la vida trabajando como productor audiovisual y youtuber, también realiza giras por Hispanoamérica desde 2014. Presentó su stand de comedia con humor para adultos en países como Chile, Colombia, Panamá, Costa Rica, Argentina, Ecuador, México, Uruguay y Bolivia, etc.</p>
+        <h3>Vida Musical:</h3>
+        <p>Además de haber formado parte de <a href="https://es.wikipedia.org/wiki/Once_Tiros#:~:text=Once%20Tiros%20fue%20una%20banda,sus%20integrantes%20a%20El%20Bananero.&text=Once%20Tiros%20(2017).&text=El%20grupo%20transitó%20por%20varios,base%20fundamental%20el%20ska-punk." >Once Tiros</a>, ha incursionado como cantautor solista en el rock cómico con canciones como <a href="https://www.youtube.com/watch?v=SMty6GZOcJw">"Ricardo"</a> , <a href="https://www.youtube.com/watch?v=MQ4JbLqeLFI">"Me enamore de una protistuta"</a> y <a href="https://www.youtube.com/watch?v=RYq8MJd_BhU">"El peluca sapee"</a></p>
+        <p>En 2014, colaboró con la banda uruguaya <a href="https://voy.com.uy/artista/the-party-band-1416" >The Party Band</a> en la canción Pensando En Coger y su respectivo videoclip. <a href="https://www.youtube.com/watch?v=SMty6GZOcJw">Click aqui para ver</a></p>
+        <p>En 2015, volvió brevemente a <a href="https://es.wikipedia.org/wiki/Once_Tiros#:~:text=Once%20Tiros%20fue%20una%20banda,sus%20integrantes%20a%20El%20Bananero.&text=Once%20Tiros%20(2017).&text=El%20grupo%20transitó%20por%20varios,base%20fundamental%20el%20ska-punk." >Once Tiros</a> para realizar una gira por España.</p>
+        <p>Durante el año 2020 junto con la banda Asspera lanzaron la canción "El ganzo", dónde la temática se centra en la vida en cuarentena durante la pandemia de Covid-19. <a href="https://www.youtube.com/watch?v=uSwKqANzbwA">Click aqui para ver</a></p>
+        <p>En julio de 2021, colaboró para el cantante peruano Faraón Love Shady en el sencillo «Duro 2 horas Remix», bajo la producción de Deleccio Beats. <a href="https://www.youtube.com/watch?v=tmL5CAvfDLI">Click aqui para ver</a></p>
+        <p>En la actualidad sólo ha hecho música para su programa Radio Garka en donde destaca su intro y canción de su sección «CDT» (cosas de trolazos), la dedicada a su gata «Isabel Sapee» (cover de “Zombie” de The Cranberries), «Es Hora de un Salute» (que es sintonizada a las 22:00 y se muestran fotos de seguidores del Bananero tomando alcohol y/o viéndolo) y «Sopla la vela» al dedicar cumpleaños a sus seguidores en YouTube. Parodia de la canción de Luis Miguel cambiando Suave a Sape.</p>
+        <h3>Otros ambitos:</h3>
+        <p>En julio de 2019, lanzó un videojuego desarrollado por él mismo, titulado Rompe muñeca. Alcanzó el primer puesto en tendencias de Google Play. Para una mejor explicacion sobre el tema -><a href="https://rpp.pe/tecnologia/redes-sociales/apps-el-rompe-muneca-la-aplicacion-del-bananero-esta-numero-1-en-tendencias-noticia-1211918"> Click aqui.</a></p>
+        <p>En julio de 2021, lanzó al mercado la cerveza Japi, fabricada por la empresa Prision Pals Brewing Co, ubicada en Miami. Para ver el producto -> <a href="https://japibeerarg.com.ar/japi"> Click aqui.</a></p>
+        <p>Mediante su página web la gente se puede contactar con él para enviarle un saludo especial, conocido como "saludame-esta", puede personalizarse el saludo con una pequeña colaboración.</p>
+        <p>Nario es hincha de <a href="https://es.wikipedia.org/wiki/Club_Nacional_de_Football" >Nacional de Uuguay</a>.</p>
+        <h3>Enlaces externos:</h3>
+        <a href="https://www.youtube.com/@elBananeroOficial" >Canal oficial en Youtube</a><br>
+        <a href="https://elbananero.com/index_.php?page=1" >Sitio web oficial</a><br>
+        <a href="https://web.archive.org/web/20051224094100/http://www.elbananero.com/" >Sitio web antiguo archivado (2005)</a><br>
+        <a href="https://www.saludameesta.com/site/site/" >Saludos personalizados</a><br>
+        <a href="http://www.comprateesta.com" >Cosmeticos del canal</a><br>
+        <a href="https://www.instagram.com/elbananerosoyio/" >Instagram oficial</a><br>
+        <a href="https://www.tiktok.com/@elbananero.sapee" >Tik tok oficial</a><br>
+        <iframe src="https://elbananero.com/index_.php?page=1" width="600" height="400"></iframe>
+
+    </body>
+</html>
